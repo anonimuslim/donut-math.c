@@ -8,7 +8,7 @@ Btw i using Kali Linux on Windows (WSL2), but I think u can compile this code on
 3. $ ``sudo apt install build-essential gdb``
 4. Run the follwing command: $ ``whereis gcc`` or $ ``whereis g++`` or $ ``whereis gdb``, to verify that they are installed.
 <!-- 5. Create a file with .c typefile. For example: $ ``math.c`` -->
-5. $ ``git clone https://github.com/Kevlog/donut-math``
+5. $ ``git clone https://github.com/anonimuslim/donut-math.c``
 <!-- 6. Run using the following command: $ ``gcc filename.c -o filename -ls``, for example: $ ``gcc math.c -o math -ls`` -->
 6. $ ``cd donut-math``
 <!-- 7. Ignore the error on your terminal. -->
